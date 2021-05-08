@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">🌟 World Clock Converter 🌟</h1>
-<p align="center">App for getting time based on difference, suppose you want to know at particular time what time gone be on other countries. Then just get the different in time and put in it. You will have the time.</p>
+<p align="center">App for getting time-based on difference, suppose you want to know at the particular time what time will be on other countries. Then just get the difference in time and put in it. You will have the time.</p>
 
 <p align="center">
 <a href="https://github.com/Rohit19060/World-Clock-Converter/blob/master/LICENSE" target="_blank" title="License">
@@ -103,7 +103,7 @@ Run the index file on any server or in any browser.
 
 <h2 align="center">🤝 Support</h2>
 
-<h3 align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub Flow">GitHub flow</a>), 🔥 issues and 🥮 feature requests are most welcome!</h3>
+<h3 align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub Flow">GitHub flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</h3>
 
 <h3 align="center">💙 If you like this project, Give it a ⭐ and Share it with friends!</h3>
 <h3 align="center">💰 Donations Links</h3>
