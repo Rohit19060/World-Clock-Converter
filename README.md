@@ -7,9 +7,6 @@
 <p align="center">App for getting time-based on difference, suppose you want to know at the particular time what time will be on other countries. Then just get the difference in time and put in it. You will have the time.</p>
 
 <p align="center">
-
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/Rohit19060/World-Clock-Converter)
-
 <a href="https://github.com/Rohit19060/World-Clock-Converter/blob/master/LICENSE" title="License">
 <img src="https://img.shields.io/github/license/Rohit19060/World-Clock-Converter?label=License&logo=Github&style=flat-square" alt="World Clock Converter License"/>
 </a>
