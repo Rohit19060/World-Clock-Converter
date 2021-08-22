@@ -109,7 +109,7 @@ Run the index file on any server or in any browser.
 <p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
 
 <p align="center">💙 If you like this project, Give it a ⭐ and Share it with friends!</p>
-<h3 align="center">💰 Donations Links</h3>
+<p align="center">💰 Donations Links</p>
 <p align="center">
 <a href="https://www.paypal.me/kingrohitJ" title="PayPal"><img src="https://kingtechnologies.in/assets/images/Paypal.png" alt="PayPal"/></a>
 <a href="https://www.buymeacoffee.com/rohitjain" title="Buy me a Coffee"><img src="https://kingtechnologies.in/assets/images/Coffee.png" alt="Buy me a Coffee"/></a>
