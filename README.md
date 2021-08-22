@@ -105,11 +105,12 @@ Run the index file on any server or in any browser.
 - 🦁 [Website](https://kingtechnologies.in "Welcome")
 
 <h2 align="center">🤝 Support</h2>
+h2 align="center">🤝 Support</h2>
 
-<h3 align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</h3>
+<h4 align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</h4>
 
-<h3 align="center">💙 If you like this project, Give it a ⭐ and Share it with friends!</h3>
-<h3 align="center">💰 Donations Links</h3>
+<h4 align="center">💙 If you like this project, Give it a ⭐ and Share it with friends!</h4>
+<h4 align="center">💰 Donations Links</h4>
 <p align="center">
 <a href="https://www.paypal.me/kingrohitJ" title="PayPal"><img src="https://kingtechnologies.in/assets/images/Paypal.png" alt="PayPal"/></a>
 <a href="https://www.buymeacoffee.com/rohitjain" title="Buy me a Coffee"><img src="https://kingtechnologies.in/assets/images/Coffee.png" alt="Buy me a Coffee"/></a>
