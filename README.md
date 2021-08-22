@@ -3,7 +3,7 @@
     <img src="https://kingtechnologies.in/assets/images/Logo.webp" width="80px" alt="World Clock Converter"/>
   </a>
 </p>
-<p align="center">🌟 World Clock Converter 🌟</p>
+<h1 align="center">🌟 World Clock Converter 🌟</h1>
 <p align="center">App for getting time-based on difference, suppose you want to know at the particular time what time will be on other countries. Then just get the difference in time and put in it. You will have the time.</p>
 
 <p align="center">
